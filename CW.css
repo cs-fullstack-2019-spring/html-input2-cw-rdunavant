@@ -1,0 +1,26 @@
+html
+{
+    background: white;
+}
+body
+{
+    margin: 5% 15%;
+    text-align: center;
+    background: grey;
+}
+section
+{
+    display: inline-block;
+    width: 20%;
+    background: white;
+    margin: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+input
+{
+    width: 100%;
+}
+p{
+    text-align: left;
+}
