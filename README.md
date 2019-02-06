@@ -1,3 +1,6 @@
+
+### 1/2 POINT
+### On right track but several requirements weren't met (missing fields and special checks)
 # HTML Input 2 CW
 
 Duplicate the form depicted in the included image. Note the following:
